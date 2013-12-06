@@ -25,7 +25,7 @@ Use the back button of the device to go to the previous screen.
 
 Click on Play to answer the questions. The quiz qill get over when the timer expires. You will get 30 seconds to answer each question.
 
-Contact (email id or mailing list link/google-group):- 
+Contact (email id or mailing list link/google-group):- gayatri.venugopal@sicsr.ac.in
 
 GNU GPL Version 3, 29 June 2007.
 
